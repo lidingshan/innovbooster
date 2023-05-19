@@ -1,3 +1,0 @@
-# Innovation Booster
-
-Comming soon!
