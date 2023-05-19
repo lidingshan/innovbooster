@@ -5,6 +5,4 @@
 layout: home
 ---
 
-# Innovation Booster
-
 Comming soon!
